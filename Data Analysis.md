@@ -70,5 +70,19 @@ Figure 8. Heatmap of the success rate of projects on Kickstarter by category and
 
 - This maturation of the platform has both practical and analytical implications. For creators, understanding the current operating logic means learning how to realistically calibrate goals, decide on an appropriate duration, choose strategic categories, and explore successful portfolios as key assets. For analysts, the growing predictability of the system reinforces the feasibility of statistical and computational modeling capable of anticipating the results of campaigns. However, the stabilization and increasingly mathematical character of Kickstarter do not entirely eliminate the weight of external and qualitative factors, such as the originality of the proposal, the cultural context, or the capacity for social engagement. These elements, although increasingly secondary in the face of the weight of structural variables, continue to play an important role in an ecosystem that combines numbers, reputation and creativity. In this context, the present study contributes by presenting models with predictive capacity that raises the standard of previous initiatives and, together with a detailed temporal analysis, offers valuable insights for creators and investors interested in maximizing their chances of success.
 
+### References
+Agrawal, A., Catalini, C., Goldfarb, A. (2010). The Geography of Crowdfunding. Net Institute Working Paper 10 (8). DOI: 10.2139/ssrn.1692661.
+Baber, H. (2020) Secrets of successful crowdfunding campaigns. Advances in Business-Related Scientific Research Journal 11 (2).
+Colombo, M., Franzoni, C., Rosse-Lamastra, C. (2015). Internal Social Capital and the Attraction of Early Contributions in Crowdfunding. Entrepreneurship Theory and Practice 39 (1). DOI: 10.1111/etap.12118.
+Crosetto, P., Regner, T. (2014). Crowdfunding: determinants of success and funding dynamics. Jena Economic Research Papers, n. 2014-035, Friedrich Schiller University Jena; Max Planck Institute of Economics, Jena.
+Elitzur, R., Katz, N., Muttah, P., Soberman, D. (2024). The power of machine learning methods to predict crowdfunding success: Accounting for complex relationships efficiently. Journal of Business Venturing Design 3. DOI: 10.1016/j.jbvd.2024.100022.
+Greenberg, M., Pardo, B., Hariharan, K., Gerber, E. (2013). Crowdfunding support tools: predicting success & failure.  Association for Computing Machinery. 1815-1820. DOI: 10.1145/2468356.2468682.
+Hemer, J. (2011). A snapshot on crowdfunding. Fraunhofer Institute for Systems and Innovation Research. Working Papers "Firms and Region". DOI: 10.24406/publica-fhg-295540.
+Hsu, D. (2007). Experienced entrepreneurial founders, organizational capital, and venture capital funding. Research Policy 36.
+Jovanović, T. (2019). Crowdfunding: What do we know so far? International Journal of Innovation and Technology Management 16 (1): 1-25. DOI: 10.1142/S0219877019500093.
+Kickstarter. (2025). Stats. New York: Kickstarter. Available at: "https://www.kickstarter.com/help/stats?ref=global-footer". Accessed on: 27 mar. 2025.
+Koch, J., Siering, M. (2015). Crowdfunding success factors: the characteristics of successfully funded projects on crowdfunding platforms. Proceedings of the 23rd European Conference on Information Systems (ECIS), Münster, Germany.
+Mollick, E. (2014). The dynamics of crowdfunding: an exploratory study. Journal of Business Venturing 29 (1): 1-16. DOI: 10.1016/j.jbusvent.2013.06.005.
+Voelker, T., Mcglashan, R. (2013). What is crowdfunding? Bringing the power of Kickstarter to your entrepreneurship research and teaching activities. Small Business Institute Journal 9 (2): 11-22.
 
 
