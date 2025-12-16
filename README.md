@@ -32,5 +32,6 @@ Data-driven approaches offer a systematic way to uncover these patterns and buil
   - Campaign duration
   - Creator reputation
   - Project category
-  - 
+  
 <img width="1770" height="1170" alt="roc modelo geral" src="https://github.com/user-attachments/assets/748d6d7f-525a-4a47-9a95-16f8bce9df3a" />
+<img width="2069" height="1470" alt="evolução desempenho modelo lgbm ano a ano" src="https://github.com/user-attachments/assets/58df6f05-4238-49a2-ba8b-fb3112e1a901" />
